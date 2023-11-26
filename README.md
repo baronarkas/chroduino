@@ -1,5 +1,5 @@
 # chroduino
-Workaround for the limitations of Arduino programming on ChromeOS
+Abstraction utility and workaround for the limitations of Arduino programming on ChromeOS
 
 # The Problem:
 When learning to program for both the Arduino Nano and Arduino Mega, I attempted to utilize my AMD64 Chromebook to code in the lab, much to my dismay I found that there didn't seem to be any IDE that supported Arduino boards larger than an Uno for ChromeOS. 
