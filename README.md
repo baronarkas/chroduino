@@ -1,4 +1,4 @@
-# chroduino
+# chromeduino
 Abstraction utility and workaround for the limitations of Arduino programming on ChromeOS
 
 # The Problem:
